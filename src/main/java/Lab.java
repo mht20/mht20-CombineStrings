@@ -6,7 +6,7 @@ public class Lab {
      * This method should return the combination of two Strings.
      * @param a the first part of the string to be combined.
      * @param b the second part of the string to be combined.
-     * @return the combination of strings a and b.
+     * @return the combination of strings a and b
      */
     public String combine(String a, String b){
         String  str = a + b;
